@@ -7,7 +7,7 @@ body {
   transform-style: preserve-3d;
   height: 100%;
   overflow-x: hidden;
-  font-family: 'Roboto';
+  font-family: 'Product Sans';
 }
 button {
     font-size: 17px;
@@ -77,7 +77,7 @@ div.navbar > ul > li:hover {
   background-color: rgba(0, 0, 0, 0.2);
 }
 a.nav-button {
-  font-family: 'Roboto';
+  font-family: 'Product Sans';
   text-decoration: none;
   line-height: 60px;
   padding-left: 20px;
